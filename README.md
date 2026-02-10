@@ -91,7 +91,7 @@ La especificación del problema a abordar se define **en conjunto con el socio f
 
 ## Estructura sugerida del repositorio
 
-> Ajusta esta estructura según tu stack y forma de trabajo.
+> Estructura del stack y forma de trabajo.
 
 ```txt
 /
